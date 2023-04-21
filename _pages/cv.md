@@ -11,23 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Robotics and Computer Vision, University of California, San Diego (UCSD), 2023
+* B.S. in Electrical and Computer Engineering, Sri Jayachamarajendra College of Engineering (SJCE), Mysuru, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Brain Corp** <br>  Robotics Intern <br> <font size="2"> Jan 2023 - Present </font>
+  * Tasked with the development of features in python and C++ for artificial intelligence software platform that powers the world’s largest fleet of autonomous mobile robots operating in indoor public spaces.
 
-* Fall 2015: Research Assistant
+
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
