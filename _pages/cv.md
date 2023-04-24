@@ -9,16 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S. in Robotics and Computer Vision, University of California, San Diego (UCSD), 2023
-* B.S. in Electrical and Computer Engineering, Sri Jayachamarajendra College of Engineering (SJCE), Mysuru, 2018
-
-Work experience
-======
-* **Brain Corp** <br>  Robotics Intern <br> <font size="2"> Jan 2023 - Present </font>
-  * Tasked with the development of features in python and C++ for artificial intelligence software platform that powers the world’s largest fleet of autonomous mobile robots operating in indoor public spaces.
-
+Find the PDF version of my  [CV](/files/Resume.pdf)
 
 <!-- * Fall 2015: Research Assistant
   * Github University
