@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+----------
+
 Find the PDF version of my  [CV](/files/Resume.pdf)
 
 <!-- * Fall 2015: Research Assistant
