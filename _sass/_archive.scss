@@ -243,3 +243,15 @@
     }
   }
 }
+
+
+.project-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-gap: 20px;
+}
+.project-thumbnail {
+margin: auto auto;
+height: 150px;
+width: auto;
+}

@@ -3,7 +3,9 @@ title: "Semantic Segmentation using Inception"
 collection: projects
 permalink: /projects/ss-inception
 authors: 'Hsuan-lin Her, Ashish Farande, Prabhav Gaur'
-excerpt: 'Developed an architecture inspired from UNet and Inception to segment images for Unstructured Driving Scenarios from TAS500 Dataset. The model was able to perform approx 5% better than the UNet, with 50% lesser parameters'
+header:
+  tumbnail: ss.png
+excerpt: "Developed an architecture inspired from UNet and Inception to segment images for Unstructured Driving Scenarios from TAS500 Dataset. The model was able to perform approx 5% better than the UNet, with 50% lesser parameters."
 # date: 2009-10-01
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/ss_inception_report.pdf'
